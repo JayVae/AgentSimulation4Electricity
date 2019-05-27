@@ -1,4 +1,5 @@
 # 在原来的rl包上进行修正，修正了Q-learn中的Q-table更新问题，并将其应用到电力市场报价中。
+结果不一定收敛
 
 
 # java-reinforcement-learning
